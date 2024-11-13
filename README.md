@@ -27,6 +27,7 @@ iv.	Create the test Cell view.
 v.	Analog simulation by spectre
 
 
+
 ### i)	Procedure for Creating New Library.
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
@@ -66,7 +67,7 @@ v.	Analog simulation by spectre
 +	Check for the position of pin side.Prss OK
 +	Edit for the shape by Create-Shape-Choose required options to edit.
 
- 
+ ![Screenshot 2024-11-12 220931](https://github.com/user-attachments/assets/ee617a6d-4475-4ff2-8f1c-a9f34812ba04)
 
 
 
