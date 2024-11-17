@@ -7,8 +7,10 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
 ## Tools Required:
 +	Personal Computer
 +	Cadence Virtuoso Software
+
 ## Circuit Diagram:
 ![WhatsApp Image 2024-11-15 at 3 07 27 PM](https://github.com/user-attachments/assets/32e8d876-bd4b-4207-9237-8c824fea7b05)
+
 ## S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
@@ -16,6 +18,8 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
 •	csh
 •	source /cadence/install/cshrc
 •	virtuoso 
+
+
 ## Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
@@ -34,6 +38,7 @@ v.	Analog simulation by spectre
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
+
 ### ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
@@ -109,6 +114,6 @@ v.	Analog simulation by spectre
 
 
 
-
 ### Results:
+
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
