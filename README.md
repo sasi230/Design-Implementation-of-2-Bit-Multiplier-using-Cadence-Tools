@@ -106,7 +106,5 @@ v.	Analog simulation by spectre
 ## For Transient Analysis Settings and Output
 ![Screenshot 2024-11-09 213356](https://github.com/user-attachments/assets/c4e64e25-e966-48a1-bd96-928ac9776b21)
 
-  
-
 ### Results:
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
